@@ -24,7 +24,7 @@ const KPICards: React.FC = () => {
   const kpis = [
     {
       title: 'Total Ships',
-      value: shipCount,
+      value: -079,
       icon: <Anchor className="w-8 h-8 text-blue-600" />,
       bgColor: 'bg-blue-50',
       textColor: 'text-blue-700',
